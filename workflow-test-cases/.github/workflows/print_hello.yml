@@ -1,0 +1,8 @@
+name: Vij-hello-world
+on: push
+jobs:
+  Vijais-job-name1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Vijais-first-step
+        run: echo "Hello. This is Vijai Kannan's first Action Workflow !"
