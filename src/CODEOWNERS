@@ -1,0 +1,6 @@
+# Review *.py by given user
+*.py @vishalinagathevan
+
+
+# Review *.md by given user
+*.md @vishalinagathevan
