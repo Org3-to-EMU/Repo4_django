@@ -1,0 +1,5 @@
+# Review *.py by given user
+*.md @rajilingam
+
+# Review *.py by given user
+*.py @rajilingam
